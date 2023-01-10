@@ -1,0 +1,15 @@
+D:\sem7\Prn211\PRN211_SE_PT2\bin\Debug\net6.0\PRN211_SE_PT2.exe
+D:\sem7\Prn211\PRN211_SE_PT2\bin\Debug\net6.0\PRN211_SE_PT2.deps.json
+D:\sem7\Prn211\PRN211_SE_PT2\bin\Debug\net6.0\PRN211_SE_PT2.runtimeconfig.json
+D:\sem7\Prn211\PRN211_SE_PT2\bin\Debug\net6.0\PRN211_SE_PT2.dll
+D:\sem7\Prn211\PRN211_SE_PT2\bin\Debug\net6.0\PRN211_SE_PT2.pdb
+D:\sem7\Prn211\PRN211_SE_PT2\obj\Debug\net6.0\PRN211_SE_PT2.csproj.AssemblyReference.cache
+D:\sem7\Prn211\PRN211_SE_PT2\obj\Debug\net6.0\PRN211_SE_PT2.GeneratedMSBuildEditorConfig.editorconfig
+D:\sem7\Prn211\PRN211_SE_PT2\obj\Debug\net6.0\PRN211_SE_PT2.AssemblyInfoInputs.cache
+D:\sem7\Prn211\PRN211_SE_PT2\obj\Debug\net6.0\PRN211_SE_PT2.AssemblyInfo.cs
+D:\sem7\Prn211\PRN211_SE_PT2\obj\Debug\net6.0\PRN211_SE_PT2.csproj.CoreCompileInputs.cache
+D:\sem7\Prn211\PRN211_SE_PT2\obj\Debug\net6.0\PRN211_SE_PT2.dll
+D:\sem7\Prn211\PRN211_SE_PT2\obj\Debug\net6.0\refint\PRN211_SE_PT2.dll
+D:\sem7\Prn211\PRN211_SE_PT2\obj\Debug\net6.0\PRN211_SE_PT2.pdb
+D:\sem7\Prn211\PRN211_SE_PT2\obj\Debug\net6.0\PRN211_SE_PT2.genruntimeconfig.cache
+D:\sem7\Prn211\PRN211_SE_PT2\obj\Debug\net6.0\ref\PRN211_SE_PT2.dll
